@@ -27,3 +27,5 @@
 ## Основные команды гита (2-ой семинар)
 
 - **git branch branch_name** - создание новой ветки с именем branch_name
+
+- **git checkout -b branch_name** - создание ветки и переход к ней

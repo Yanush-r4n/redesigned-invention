@@ -38,4 +38,4 @@
 
 - **git log --graph** 
 
-- **git log --oneline** 
+- **git log --oneline** - вывод коротенького журнала без автора и почты

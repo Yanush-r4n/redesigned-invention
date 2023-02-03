@@ -34,7 +34,7 @@
 
 - **git branch -d branch_name** - удаление ветки под названием branch_name
 
-- **git merge --abort**
+- **git merge --abort** - отмена слияния, которое прошло с конфликтом
 
 - **git log --graph** 
 

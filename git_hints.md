@@ -36,6 +36,6 @@
 
 - **git merge --abort**
 
-- **git log --graph** 
+- **git log --graph** - вот это выглядит красиво, потому что
 
 - **git log --oneline** 
